@@ -1,0 +1,19 @@
+{
+  "name": "resmart",
+  "version": "0.1.0-alpha.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janryWang/resmart.git"
+  },
+  "author": "janry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/janryWang/resmart/issues"
+  },
+  "homepage": "https://github.com/janryWang/resmart#readme"
+}
